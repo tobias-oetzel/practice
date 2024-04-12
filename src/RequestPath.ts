@@ -1,0 +1,4 @@
+class RequestPath {
+}
+
+export { RequestPath }
